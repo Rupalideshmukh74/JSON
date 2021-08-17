@@ -7,6 +7,7 @@ namespace JSON
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to JSON Inventory Data Management");
+            InventoryData inventoryData = new InventoryData();
         }
     }
 }
